@@ -17,7 +17,7 @@ Join Layer2DAO and learn more at our:
 This repository contains the smart contracts for $L2DAO. As we continue to grow the DAO, we will add additional elements to this repository.
 
 ## Deployments
-* L2DAO Token: [0x2CaB3abfC1670D1a452dF502e216a66883cDf079](https://arbiscan.io/address/0x2CaB3abfC1670D1a452dF502e216a66883cDf079)
+* L2DAO Token: [0x2CaB3abfC1670D1a452dF502e216a66883cDf079](https://arbiscan.io/token/0x2CaB3abfC1670D1a452dF502e216a66883cDf079)
 * L2DAO Tokenlock: [0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D](https://arbiscan.io/address/0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D)
 
 ## Airdrop
