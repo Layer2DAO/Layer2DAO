@@ -19,3 +19,8 @@ This repository contains the smart contracts for $L2DAO. As we continue to grow 
 ## Deployments
 * L2DAO Token:
 * L2DAO Tokenlock:
+
+## Airdrop
+The purpose of the airdrop on Arbitrum is to distribute the Layer2DAO governance tokens ($L2DAO) to early adopters of the top ten Layer 2 projects by TVL. You can claim your airdrop until Feburary 28, 2022.
+* [Claim your airdrop](http://www.layer2dao.org/)
+* [Learn more about the airdrop](https://docs.layer2dao.org/airdrop)
