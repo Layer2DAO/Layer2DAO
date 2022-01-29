@@ -17,8 +17,8 @@ Join Layer2DAO and learn more at our:
 This repository contains the smart contracts for $L2DAO. As we continue to grow the DAO, we will add additional elements to this repository.
 
 ## Deployments
-* L2DAO Token:
-* L2DAO Tokenlock:
+* L2DAO Token: [0x2CaB3abfC1670D1a452dF502e216a66883cDf079](https://arbiscan.io/address/0x2CaB3abfC1670D1a452dF502e216a66883cDf079)
+* L2DAO Tokenlock: [0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D](https://arbiscan.io/address/0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D)
 
 ## Airdrop
 The purpose of the airdrop on Arbitrum is to distribute the Layer2DAO governance tokens ($L2DAO) to early adopters of the top ten Layer 2 projects by TVL. You can claim your airdrop until Feburary 28, 2022.
