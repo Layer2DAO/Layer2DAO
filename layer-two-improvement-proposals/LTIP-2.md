@@ -1,6 +1,6 @@
 | id | Title | Status | Author | Description | Discussions to | Created |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| LTIP-2 | Implement Revenue Sharing Plan| Draft | Exosphere (@exosphereL2) | Allow staking L2DAO for share of DAO revenues | https://discord.gg/PTKzgswQRX | 2022-07-22
+| LTIP-2 | Implement Revenue Sharing Plan| Draft | Exosphere (@exosphereL2), Weston Nelson (@westonnelson) | Allow staking L2DAO for share of DAO revenues | https://discord.gg/PTKzgswQRX | 2022-07-22
  
 # Summary
  
