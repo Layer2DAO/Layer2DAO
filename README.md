@@ -10,8 +10,9 @@ Partnerships with other protocols evolve past simple co-marketing and sharing of
 ## Where can I learn more?
 Join Layer2DAO and learn more at our:
 * [Discord](https://discord.gg/PTKzgswQRX)
-* [Docs](https://docs.layer2dao.org/)
 * [Twitter](https://twitter.com/TheLayer2DAO)
+* [Docs](https://docs.layer2dao.org)
+* [CoinGecko](https://www.coingecko.com/en/coins/layer2dao)
 
 ## Repository Details
 This repository contains the smart contracts for $L2DAO, as well as DAO improvement proposals (LTIPs). As we continue to grow the DAO, we will add additional elements to this repository.
