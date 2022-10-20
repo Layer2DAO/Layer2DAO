@@ -19,12 +19,16 @@ contract L2DAOTokenMultichain is ERC20, Ownable {
 
     event BridgeSupplyCapUpdated(address bridge, uint256 supplyCap);
 
+    address public immutable underlying;
+
     constructor(
         string memory name_,
         string memory symbol_,
-        uint8 decimals_
+        uint8 decimals_,
+        address underlying_
     ) ERC20(name_, symbol_) {
         _decimals = decimals_;
+        underlying = underlying_;
     }
 
     /**
