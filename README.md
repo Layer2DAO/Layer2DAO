@@ -1,5 +1,8 @@
 # 👋🏽 Welcome to Layer2DAO!
 
+Follow us on Twitter!
+[![Twitter Follow](https://img.shields.io/twitter/follow/TheLayer2DAO.svg?label=Layer2DAO&style=social)](https://twitter.com/TheLayer2DAO)
+
 ## What is Layer2DAO?
 
 Layer2DAO strives to promote the adoption of the Ethereum L2 ecosystem and enable its members to benefit from its growth. In lieu of some L2 solutions launching their own tokens, Layer2DAO will provide incentives for users to move their funds to L2s and use protocols on those L2s, modeled after other protocols’ successful incentive programs. Layer2DAO also uses its treasury to invest into L2 protocols and ecosystem plays, serving as a diversified venture fund for investors looking to gain exposure to the L2 ecosystem growth.
