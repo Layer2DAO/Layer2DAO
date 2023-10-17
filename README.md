@@ -12,7 +12,7 @@ Partnerships with other protocols evolve past simple co-marketing and sharing of
 
 ## Where can I learn more?
 Join Layer2DAO and learn more at our:
-* [Discord](https://discord.gg/PTKzgswQRX)
+* [Discord](https://gg.layer2dao.org/)
 * [Docs](https://docs.layer2dao.org/)
 * [Twitter](https://twitter.com/TheLayer2DAO)
 
@@ -22,4 +22,4 @@ This repository contains the smart contracts for $L2DAO, as well as DAO improvem
 ## Deployments
 * L2DAO Token (Arbitrum): [0x2CaB3abfC1670D1a452dF502e216a66883cDf079](https://arbiscan.io/token/0x2CaB3abfC1670D1a452dF502e216a66883cDf079)
 * L2DAO Token (Optimism): [0xd52f94df742a6f4b4c8b033369fe13a41782bf44](https://optimistic.etherscan.io/token/0xd52f94df742a6f4b4c8b033369fe13a41782bf44)
-* L2DAO Tokenlock: [0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D](https://arbiscan.io/address/0x90dfEfDc18FC0Ecd356b69b3fC21Ffef5896FA8D)
+* L2DAO Token (zkSync): [0x2032B3996757A7F5782aa54fcC2C7EbC36697840](https://explorer.zksync.io/address/0x2032B3996757A7F5782aa54fcC2C7EbC36697840#contract)
